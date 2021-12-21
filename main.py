@@ -10,7 +10,7 @@ from fastapi.params import Depends
 
 webhook_url = "/bot/"
 
-tokens = ["914543704:AAGxCfEN279RPLCAFsFTsQR2ava6P13c5ZE"]
+tokens = [""]
 
 dp = Dispatcher()
 
