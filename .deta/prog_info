@@ -1,1 +1,0 @@
-{"id":"4eb9f5ea-7896-45c3-9f27-3c29b36f4a6d","space":14702,"runtime":"python3.9","name":"python-bot","path":"xhz6g6","project":"a0gjfn8v","account":"144798365827","region":"eu-central-1","deps":["fastapi"],"envs":null,"public":true,"log_level":"debug","cron":""}

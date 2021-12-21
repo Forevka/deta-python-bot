@@ -1,1 +1,2 @@
 fastapi
+git+git://github.com/aiogram/aiogram.git@7c14a6b16b8f90dc4240802003cd89172adf7732#egg=aiogram
