@@ -1,8 +1,8 @@
 # Python telegram bot on Deta with aiogram
 
-- fastapi
-- aiogram 3
-- deta
+- fastapi https://fastapi.tiangolo.com/ as webserver
+- aiogram 3 https://docs.aiogram.dev/ as telegram bot framework
+- deta https://docs.deta.sh/ as hosting system
 
 [![Deploy](https://button.deta.dev/1/svg)](https://go.deta.dev/deploy?repo=https://github.com/Forevka/deta-python-bot)
 
@@ -67,3 +67,9 @@ bot_injector - dependency injector for bot object.
 process_bot_update - invoke aiogram update dispatch process.
 set_webhook - set webhooks for all bot tokens that we defined before
 
+## Deploying
+
+just run command inside python-telegram-bot directory
+```bash
+deta deploy
+```
